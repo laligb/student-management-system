@@ -36,8 +36,8 @@ The Student Management System is a JavaFX application designed to manage student
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/student-enrollment-system.git
-   cd student-enrollment-system
+   git clone https://github.com/yourusername/student-management-system.git
+   cd student-management-system
    ```
 
 2. Open the project in your preferred IDE.
