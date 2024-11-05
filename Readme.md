@@ -8,6 +8,7 @@ The Student Management System is a JavaFX application designed to manage student
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 
 ## Features
 
