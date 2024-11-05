@@ -49,3 +49,7 @@ The Student Management System is a JavaFX application designed to manage student
 1. Compile the application.
 
 2. Run the `App` class, which contains the main method to launch the GUI.
+
+## Live Demo
+
+Access the live application [here](https://sprint1-2.vercel.app/).
